@@ -1,1 +1,1 @@
-# Static templete webpage
+# Static Webpage Templete - 2
