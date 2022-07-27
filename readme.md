@@ -15,7 +15,7 @@
 
 ## Webpage Templete screenshot
 
-![Webpage templete](images\Final-Webpage.png)
+![Webpage templete](Final-Webpage.png)
 ![badge](https://img.shields.io/badge/Time%20taken-8%20hours-green)
 
 ## Hosted webpage link
