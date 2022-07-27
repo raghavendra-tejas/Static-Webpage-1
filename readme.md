@@ -1,9 +1,10 @@
 # Static Webpage Templete - 1
 
-> A static templete webpage of a hero
+## A static templete webpage of a hero
 
-- This webpage was constructed by using only HTML as a markup language and CSS for styling.
-- Webpage consists of two sections such as navigation section and main (content) section
+- This webpage was constructed by using only HTML and CSS as a markup and styling language respectively.
+- Webpage consists of two sections such as navigation section and main (content) section.
+- This webpage is currently hosted on netlify.
 
 ## Built with
 
@@ -12,16 +13,35 @@
 - [GitHub](https://github.com/) to manage git repository.
 - [Netlify](https://www.netlify.com/) as a website hosting platform.
 
+## Webpage Templete screenshot
+
+![Webpage templete](images\Final-Webpage.png)
+![badge](https://img.shields.io/badge/Time%20taken-8%20hours-green)
+
 ## Hosted webpage link
 
 [Static Webpage Templete - 1](https://static-webpage-templete-01.netlify.app/)
 
-## Contact me
+## My learnings
+
+Since I am new to this coding environment I took lots of time in research (googling).
+
+> Positions (Absolute & Relative)
+
+> Flexbox
+
+> git and git-hub
+
+> Hosting a website on different platform
+
+## Contact me:
+
+### Raghavendra Tejas
 
 ```shell
 tejasraghavendra8@gmail.com
 ```
 
-![badge](https://img.shields.io/badge/Special-Credits-green)
+## Special credits
 
 Team at [ineuron](https://ineuron.ai/) and [Hitesh Choudhary](https://github.com/hiteshchoudhary)
